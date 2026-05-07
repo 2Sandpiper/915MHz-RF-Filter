@@ -10,6 +10,9 @@ Ultra compact PCB implementation
 ## Measured Performance
 Measured using a calibrated VNA setup with SOLT calibration
 
+## Full Datasheet
+https://myfilter.carrd.co/
+
 ## Links
 Available on Tindie: 
 https://www.tindie.com/products/trentender/915mhz-bpf-for-loraism-reduce-interference/
