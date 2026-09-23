@@ -5,7 +5,7 @@ Compact 50 ohms RF filter designed for ISM-band applications and out-of-band int
 Centre Frequency: 915MHz
 Impedance: 50 ohms
 Connector type: u.fl
-Ultra compact PCB implementation
+Ultra compact PCB implementation.
 Pmax of +10dBm
 
 ## Measured Performance
