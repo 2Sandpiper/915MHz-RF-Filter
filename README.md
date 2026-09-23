@@ -6,6 +6,7 @@ Centre Frequency: 915MHz
 Impedance: 50 ohms
 Connector type: u.fl
 Ultra compact PCB implementation
+Pmax of +10dBm
 
 ## Measured Performance
 Measured using a calibrated VNA setup with SOLT calibration
